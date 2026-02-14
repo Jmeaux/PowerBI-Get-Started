@@ -34,3 +34,70 @@ Each report focuses on a specific concept or skill rather than trying to do ever
 - DAX
 - Power Query
 - (Optional: SQL / Excel if applicable)
+
+
+# 📊 Sales Performance Dashboard (Power BI)
+
+## 📌 Project Overview
+
+This project was created to demonstrate my ability to design and build an executive-level dashboard in Power BI for potential recruiters and hiring managers.
+
+Using the AdventureWorks dataset, I developed a structured dashboard that highlights total sales performance, customer volume, and geographic revenue distribution. The focus of this project was not only on data visualization, but also on creating a clean, well-aligned layout that reflects professional reporting standards.
+
+---
+
+## 📂 Dataset
+
+- **Source:** AdventureWorks (SQL Server sample database)
+- **Data Model:** DirectQuery
+- **Key Fields Used:**
+  - OrderDate
+  - Total Sales
+  - Total Customers
+  - Territory
+
+---
+
+## 📈 Dashboard Overview
+
+This dashboard allows users to quickly understand:
+
+- Total sales performance
+- Total number of customers
+- Sales trends over time
+- Revenue distribution by territory
+
+The layout follows a clear hierarchy:
+- KPI summary at the top
+- Time-series trend in the middle
+- Geographic breakdown at the bottom
+
+---
+
+## 🛠 Skills Demonstrated
+
+- Designed and structured an executive-style dashboard layout  
+- Adjusted visual size, alignment, and positioning for clean hierarchy and readability  
+- Configured continuous date axis for time-series analysis  
+- Built KPI cards for high-level performance tracking  
+- Applied spacing and alignment principles for professional presentation  
+- Worked within DirectQuery model constraints  
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](images/pbidashboard.png)
+
+
+---
+
+## 🚀 Tools Used
+
+- Power BI Desktop
+- SQL Server (AdventureWorks Database)
+- GitHub
+- VS Code
+
+---
+
