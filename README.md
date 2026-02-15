@@ -1,4 +1,4 @@
-## Power BI Walkthrough
+# 📊 Executive Sales Performance Dashboard (Power BI)
 ### Overview
 This repository contains a Power BI walkthrough created to demonstrate my practical knowledge of the Power BI platform.
 
