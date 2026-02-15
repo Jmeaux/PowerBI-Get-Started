@@ -73,6 +73,7 @@ The layout follows a clear hierarchy:
 - Geographic breakdown at the bottom
 
 ---
+![Dashboard Preview](images/dashboardrows.png)
 
 ## 🛠 Skills Demonstrated
 
